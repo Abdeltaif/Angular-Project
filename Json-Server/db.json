@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "abdeltaif_chraibi@yahoo.fr",
+      "password": "$2a$10$rg5A5lGeIIsdvqzlrbV2GOc4hzracHTWKLS8X.nUDUwNGrJ6C/ia2",
+      "id": 1
+    }
+  ],
+  "books": [
+      {
+          "name": "book1"
+      },
+      {
+          "name": "book2"
+      },
+      {
+          "name": "book3"
+      }   
+  ]
+}

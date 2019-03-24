@@ -1,0 +1,16 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "POE PROJET ANGULAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server db.json -m ./node_modules/json-server-auth -r routes.json"
+  },
+  "author": "Abdel",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^9.0.6",
+    "json-server-auth": "^1.1.0"
+  }
+}

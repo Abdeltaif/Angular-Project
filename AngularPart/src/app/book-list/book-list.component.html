@@ -1,0 +1,7 @@
+<h3>Mes Livres</h3>
+
+<p *ngIf="!book"> Chargement...</p>
+
+<ul *ngIf="book">
+  <li *ngFor="let book of books"{{book.name}}></li>
+</ul>
